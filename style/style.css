@@ -1,0 +1,51 @@
+.img-circle{
+	width:25%;
+	border-radius:55%;
+	margin-top:10px;
+	margin-left:15px;
+}
+
+ul.col-md-4.list-group {
+	margin-top:30px;
+}
+
+p.card-text {
+	padding:10px;
+	font-size:0.87rem;
+}
+
+.username-formatting {
+	margin-left:20px;
+	font-size:0.9rem;
+	font-weight:bold;
+	color:blue;
+}
+
+.long-username-formatting {
+	margin-left:20px;
+	font-size:0.9rem;
+	font-weight:bold;
+	color:red;
+
+}
+
+body {
+	padding:12px;
+}
+
+.timestamp-class {
+	margin-left:20px;
+	color:black !important;
+}
+
+.start-messages {
+	border-bottom:1px solid #eee;
+}
+
+.transcript-date {
+	float:right;
+}
+
+.header-class {
+	height:110px;
+}
